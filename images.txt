@@ -1,5 +1,5 @@
-Elasticsearch
-Kibana
-RabbitMQ
+elasticsearch
+kibana
+rabbitMQ
 jdk
 tomcat
