@@ -1,7 +1,5 @@
-nacos/nacos-server
-apache/rocketmq
-zookeeper
-apache/seata-server
-easysoft/zentao
-vulhub/showdoc
-apache/dubbo-admin
+Elasticsearch
+Kibana
+RabbitMQ
+jdk
+tomcat
