@@ -1,10 +1,2 @@
 elasticsearch
-elastic/elasticsearch
-kibana
-elastic/kibana
-rabbitmq
 apacherocketmq/rocketmq-dashboard
-apache/rocketmq
-openjdk
-amd64/openjdk
-tomcat
