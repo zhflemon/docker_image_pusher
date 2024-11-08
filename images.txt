@@ -1,5 +1,5 @@
 elasticsearch
 kibana
-rabbitMQ
-jdk
+rabbitmq
+openjdk
 tomcat
